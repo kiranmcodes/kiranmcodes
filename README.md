@@ -225,16 +225,6 @@ facilities across a campus.
 
 </p>
 
-# 🔥 Contribution Streak
-
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com/?user=kiranmcodes&hide_border=true"
-    alt="Kiran's GitHub Streak"
-  />
-
-</p>
 
 # 📈 Contribution Activity
 
