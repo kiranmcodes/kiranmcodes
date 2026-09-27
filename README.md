@@ -1,4 +1,4 @@
-
+<!-- Header Section -->
 <h1 align="center">Hey, I'm Kiran Meesala 👋</h1>
 
 <h3 align="center">
@@ -37,15 +37,14 @@ projects and experimenting with new technologies.
 ```text
 🧠 Learn → 🔬 Understand → 🛠️ Build → 🧪 Experiment → 🚀 Improve
 ```
----
-# 🛠️ Technology Arsenal
 
-## 🧑‍💻 Languages & Technologies
-<img
-  src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"
-  width="300"
-  alt="Coding"
-/>
+<!-- Languages and Tools Section -->
+# 🛠️ 🧑‍💻 Languages & Tools
+
+<!-- GIF -->
+<img align = "right" width="500" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif" alt="Coding"/>
+<!-- Languages --> 
+
 ### 👨‍💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -53,6 +52,9 @@ projects and experimenting with new technologies.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <p>
+  
+  <!-- Web development -->
+  
 ### 🌐 Web Development
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -60,12 +62,16 @@ projects and experimenting with new technologies.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
+
+<!-- Backend -->
+
 ### ⚙️ Backend & APIs
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
+<!-- Databases -->
 
 ### 🗄️ Databases
 
@@ -73,6 +79,7 @@ projects and experimenting with new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
 </p>
+<!-- Tools -->
 
 ### 🔧 Tools
 
@@ -83,7 +90,7 @@ projects and experimenting with new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
 </p>
 
-`Postman` • `Git` • `GitHub`
+<!-- AI Tools -->
 
 ### 🤖 AI Tools
 
