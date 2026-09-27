@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey, I'm Kiran Meesala 👋</h1>
 
 <h3 align="center">
@@ -43,7 +44,6 @@ projects and experimenting with new technologies.
 🧠 Learn → 🔬 Understand → 🛠️ Build → 🧪 Experiment → 🚀 Improve
 ```
 ---
-
 # 🛠️ Technology Arsenal
 
 ### 👨‍💻 Languages
@@ -71,7 +71,13 @@ projects and experimenting with new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
 </p>
-
+<p align="center">
+  <img
+    src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"
+    width="30%"
+    alt="Coding animation"
+  />
+</p>
 `REST APIs` • `Authentication` • `Role-Based Access` • `API Integration`
 
 ### 🗄️ Databases
