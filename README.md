@@ -1,3 +1,5 @@
+
+</p>
 <!-- Header Section -->
 <h1 align="center">Hey, I'm Kiran Meesala 👋</h1>
 
@@ -265,44 +267,12 @@ facilities across a campus.
   <a href="https://github.com/kiranmcodes?tab=followers">
     <img src="https://img.shields.io/badge/Followers-Connect-blue?style=for-the-badge&logo=github" />
   </a>
+  
 
 </p>
 
 
-# 🤝 Let's Connect
 
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<br>
-  <br>
-<a href="mailto:kiranmeesala065@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/kiran-meesala-9602132b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/kiranmcodes">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<i>
-Building today. Understanding tomorrow.
-Exploring everything in between.
-</i>
-
-</p>
-
-<p align="center">
-  ⚡ <b>Code • Build • Break • Learn • Repeat</b> ⚡
-</p>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -380,3 +350,40 @@ Exploring everything in between.
 </table>
 
 ---
+# 🤝 Let's Connect
+
+<p align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br>
+  <br>
+  <!-- Email-->
+<a href="mailto:kiranmeesala065@gmail.com">
+  <img src="https://s.yimg.com/fz/api/res/1.2/m.VwPFYRavwW6rapWoXJpA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD00MTI7cHhvZmY9NTA7cHlvZmY9MTAwO3E9ODA7c3M9MTt3PTM4OA--/https://i.pinimg.com/736x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" />
+</a>
+
+<!--Git hub-->
+<a href="https://github.com/kiranmcodes">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<!--Linked in-->
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kiran-meesala-9602132b7" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiran-meesala-9602132b7" height="30" width="40" /></a> 
+<!--Instagram-->
+<a href="https://instagram.com/_kiran_m_03" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kiran_m_03" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+
+<i>
+Building today. Understanding tomorrow.
+Exploring everything in between.
+</i>
+
+</p>
+
+<p align="center">
+  ⚡ <b>Code • Build • Break • Learn • Repeat</b> ⚡
+</p>
