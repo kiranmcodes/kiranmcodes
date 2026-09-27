@@ -203,19 +203,25 @@ facilities across a campus.
 </table>
 
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
 
+<a href="https://github.com/kiranmcodes">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kiranmcodes&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=kiranmcodes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
     height="180"
   />
+</a>
 
+<a href="https://github.com/kiranmcodes">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmcodes&layout=compact&hide_border=true&langs_count=8"
+    src="https://streak-stats.demolab.com/?user=kiranmcodes&hide_border=true&theme=transparent"
     height="180"
   />
+</a>
 
 </p>
 
@@ -234,12 +240,26 @@ facilities across a campus.
 
 <p align="center">
 
+<a href="https://github.com/kiranmcodes">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kiranmcodes&hide_border=true&area=true"
-    alt="Kiran's Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kiranmcodes&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+  />
+</a>
+
+</p>
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=kiranmcodes&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
+    width="100%"
   />
 
 </p>
+
 
 # 💻 My GitHub
 
@@ -297,118 +317,77 @@ Exploring everything in between.
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 # 🧪 Kiran's Tech Lab
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       KIRAN'S TECH LAB                       │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🧠 THINK                                                   │
-│     Programming • Logic • Algorithms • Problem Solving       │
-│                                                              │
-│  ⚙️ BUILD                                                    │
-│     Java • Spring Boot • React • REST APIs                   │
-│                                                              │
-│  🗄️ CONNECT                                                  │
-│     MongoDB • MySQL • APIs • Authentication                  │
-│                                                              │
-│  🤖 EXPERIMENT                                               │
-│     AI Tools • Prompt Engineering • Automation               │
-│                                                              │
-│  🔬 EXPLORE                                                  │
-│     New Technologies • System Design • Software Ideas        │
-│                                                              │
-│  🚀 SHIP                                                     │
-│     Projects • Experiments • Solutions                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+| | |
+|---|---|
+| 🧠 **Think** | Programming • Logic • Algorithms • Problem Solving |
+| ⚙️ **Build** | Java • Spring Boot • React • REST APIs |
+| 🗄️ **Connect** | MongoDB • MySQL • APIs • Authentication |
+| 🧪 **Experiment** | AI Tools • Prompt Engineering • Automation |
+| 🔬 **Explore** | New Technologies • System Design • Software Ideas |
+| 🚀 **Ship** | Projects • Experiments • Solutions |
+
+</td>
+
+<td width="50%" valign="top">
 
 # 📚 What I'm Exploring
 
-```text
-Java
- ├── Problem Solving
- ├── OOP
- ├── Data Structures & Algorithms
- └── Interview Preparation
+| 🧩 Area | 🔎 Exploring |
+|---|---|
+| ☕ **Java** | Problem Solving • OOP • DSA • Interview Preparation |
+| 🌐 **Web** | HTML • CSS • JavaScript • React |
+| ⚙️ **Backend** | Spring Boot • REST APIs • Authentication |
+| 🗄️ **Data** | MongoDB • SQL • MySQL |
+| 🤖 **AI** | Generative AI • AI-assisted Development • Prompt Engineering |
 
-Web Development
- ├── HTML
- ├── CSS
- ├── JavaScript
- └── React
+</td>
 
-Backend
- ├── Spring Boot
- ├── REST APIs
- └── Authentication
+</tr>
 
-Data
- ├── MongoDB
- └── SQL / MySQL
+<tr>
 
-AI
- ├── Generative AI
- ├── AI-assisted Development
- └── Prompt Engineering
-```
+<td width="50%" valign="top">
 
 # 🧠 Learning Philosophy
 
-```text
-Don't just memorize the syntax.
+| Step | Approach |
+|---|---|
+| **01 🧠** | **Don't just memorize** — understand the concept. |
+| **02 🔍** | **Understand WHY** it exists. |
+| **03 ⚙️** | **Understand HOW** it works internally. |
+| **04 🛠️** | **Build something** with it. |
+| **05 💥** | **Break it** — experiment and find the limits. |
+| **06 🔧** | **Fix it** — debug and understand the problem. |
+| **07 🚀** | **Build it again** with better understanding. |
 
-        ↓
+> **Understand → Build → Break → Fix → Improve**
 
-Understand WHY it exists.
+</td>
 
-        ↓
-
-Understand HOW it works.
-
-        ↓
-
-Build something with it.
-
-        ↓
-
-Break it.
-
-        ↓
-
-Fix it.
-
-        ↓
-
-Build it again.
-
-        ↓
-
-Understand > Memorize
-```
+<td width="50%" valign="top">
 
 # 🎯 Current Mission
 
-```text
-        ┌─────────────────────┐
-        │    KEEP LEARNING    │
-        └──────────┬──────────┘
-                   ↓
-        ┌─────────────────────┐
-        │    BUILD PROJECTS   │
-        └──────────┬──────────┘
-                   ↓
-        ┌─────────────────────┐
-        │   SOLVE PROBLEMS    │
-        └──────────┬──────────┘
-                   ↓
-        ┌─────────────────────┐
-        │  UNDERSTAND SYSTEMS │
-        └──────────┬──────────┘
-                   ↓
-        ┌─────────────────────┐
-        │    BECOME BETTER    │
-        └─────────────────────┘
-```
+| Focus | What I'm Doing |
+|---|---|
+| 📚 **Learn** | Strengthen my foundations in Java, SQL and web development. |
+| 🛠️ **Build** | Turn concepts into practical projects and experiments. |
+| 🧩 **Solve** | Improve programming logic and problem-solving skills. |
+| 🔬 **Understand** | Go beyond syntax and understand how software works underneath. |
+| 🚀 **Improve** | Keep iterating, debugging and building better solutions. |
+
+</td>
+
+</tr>
+</table>
+
+---
