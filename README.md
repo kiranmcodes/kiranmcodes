@@ -47,7 +47,11 @@ projects and experimenting with new technologies.
 # 🛠️ Technology Arsenal
 
 ## 🧑‍💻 Languages & Technologies
-
+<img
+  src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"
+  width="300"
+  alt="Coding"
+/>
 ### 👨‍💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -56,22 +60,17 @@ projects and experimenting with new technologies.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <p>
 ### 🌐 Web Development
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-
+</p>
 ### ⚙️ Backend & APIs
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
-<img
-  src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"
-  width="300"
-  alt="Coding"
-/>
 
 
 ### 🗄️ Databases
