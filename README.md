@@ -205,26 +205,25 @@ facilities across a campus.
 
 ---
 
-# 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
+  <a href="https://github.com/kiranmcodes">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=kiranmcodes&show_icons=true&theme=transparent&hide_border=true"
+      height="180"
+      alt="Kiran's GitHub Stats"
+    />
+  </a>
 
-<a href="https://github.com/kiranmcodes">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kiranmcodes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-    height="180"
-  />
-</a>
-
-<a href="https://github.com/kiranmcodes">
-  <img
-    src="https://streak-stats.demolab.com/?user=kiranmcodes&hide_border=true&theme=transparent"
-    height="180"
-  />
-</a>
-
+  <a href="https://github.com/kiranmcodes">
+    <img
+      src="https://streak-stats.demolab.com/?user=kiranmcodes&theme=transparent&hide_border=true"
+      height="180"
+      alt="Kiran's GitHub Streak"
+    />
+  </a>
 </p>
-
 
 # 📈 Contribution Activity
 
