@@ -46,21 +46,15 @@ projects and experimenting with new technologies.
 ---
 # 🛠️ Technology Arsenal
 
-<h2>🧑‍💻 Languages & Technologies</h2>
-
-<table>
-<tr>
-<td>
+## 🧑‍💻 Languages & Technologies
 
 ### 👨‍💻 Languages
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-
-<br><br>
-
+<p>
 ### 🌐 Web Development
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -68,24 +62,16 @@ projects and experimenting with new technologies.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 
-<br><br>
-
 ### ⚙️ Backend & APIs
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-
-<td width="35%" align="center" valign="middle">
-
+</p>
 <img
   src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"
   width="300"
   alt="Coding"
 />
-
-</td>
-</tr>
-</table>
 
 
 ### 🗄️ Databases
