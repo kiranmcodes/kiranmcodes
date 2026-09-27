@@ -9,15 +9,9 @@
   <a href="https://github.com/kiranmcodes">
     <img src="https://img.shields.io/github/followers/kiranmcodes?label=Followers&style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/kiranmcodes?tab=repositories">
-    <img src="https://img.shields.io/github/repos/kiranmcodes?label=Repositories&style=for-the-badge&logo=github" />
-  </a>
   <a href="https://komarev.com/ghpvc/?username=kiranmcodes">
     <img src="https://komarev.com/ghpvc/?username=kiranmcodes&style=for-the-badge&label=Profile+Views" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/kiran-meesala-9602132b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
